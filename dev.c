@@ -13,7 +13,7 @@
 //! Simple device status.
 //! 
 //! \warning This variable is designed for internal, user \b MUST \b NOT call it.
-static int __DevStatus = 0
+static int __DevStatus = 0;
 
 void Dev_Init(void)
 {
