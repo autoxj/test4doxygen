@@ -1,0 +1,36 @@
+\begin{theindex}
+
+  \item {dev.\discretionary {-}{}{}c}, \hyperpage{9}
+  \item {dev.\discretionary {-}{}{}h}, \hyperpage{9}
+  \item {Dev\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Close}
+    \subitem {Simple device A\discretionary {-}{}{}P\discretionary {-}{}{}Is list.}, 
+		\hyperpage{6}
+  \item {Dev\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Init}
+    \subitem {Simple device A\discretionary {-}{}{}P\discretionary {-}{}{}Is list.}, 
+		\hyperpage{6}
+  \item {Dev\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Print\discretionary {-}{}{}Int}
+    \subitem {Simple device A\discretionary {-}{}{}P\discretionary {-}{}{}Is list.}, 
+		\hyperpage{6}
+  \item {Dev\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Status\discretionary {-}{}{}Check}
+    \subitem {Simple device A\discretionary {-}{}{}P\discretionary {-}{}{}Is list.}, 
+		\hyperpage{7}
+
+  \indexspace
+
+  \item {main.\discretionary {-}{}{}c}, \hyperpage{10}
+
+  \indexspace
+
+  \item {Simple device A\discretionary {-}{}{}P\discretionary {-}{}{}Is list.}, 
+		\hyperpage{6}
+    \subitem {Dev\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Close}, 
+		\hyperpage{6}
+    \subitem {Dev\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Init}, 
+		\hyperpage{6}
+    \subitem {Dev\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Print\discretionary {-}{}{}Int}, 
+		\hyperpage{6}
+    \subitem {Dev\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Status\discretionary {-}{}{}Check}, 
+		\hyperpage{7}
+  \item {Simple device status information.}, \hyperpage{5}
+
+\end{theindex}

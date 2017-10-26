@@ -1,0 +1,24 @@
+\contentsline {chapter}{\numberline {1}Module Index}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Modules}{1}{section.1.1}
+\contentsline {chapter}{\numberline {2}File Index}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}File List}{3}{section.2.1}
+\contentsline {chapter}{\numberline {3}Module Documentation}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}Simple device status information.}{5}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Detailed Description}{5}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Simple device A\discretionary {-}{}{}P\discretionary {-}{}{}Is list.}{6}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Detailed Description}{6}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Function Documentation}{6}{subsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.1}Dev\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Close}{6}{subsubsection.3.2.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2.2}Dev\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Init}{6}{subsubsection.3.2.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.3}Dev\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Print\discretionary {-}{}{}Int}{6}{subsubsection.3.2.2.3}
+\contentsline {subsubsection}{\numberline {3.2.2.4}Dev\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Status\discretionary {-}{}{}Check}{7}{subsubsection.3.2.2.4}
+\contentsline {chapter}{\numberline {4}File Documentation}{9}{chapter.4}
+\contentsline {section}{\numberline {4.1}dev.\discretionary {-}{}{}c File Reference}{9}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Detailed Description}{9}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}dev.\discretionary {-}{}{}h File Reference}{9}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Detailed Description}{10}{subsection.4.2.1}
+\contentsline {section}{\numberline {4.3}main.\discretionary {-}{}{}c File Reference}{10}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Detailed Description}{11}{subsection.4.3.1}
+\contentsline {chapter}{\numberline {5}Example Documentation}{13}{chapter.5}
+\contentsline {section}{\numberline {5.1}main.\discretionary {-}{}{}c}{13}{section.5.1}
+\contentsline {chapter}{Index}{14}{section*.8}
